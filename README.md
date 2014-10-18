@@ -17,6 +17,12 @@ log in with that id, they'll automatically disconnect within seconds due to my s
 
 my username and password, but to run this script simply enter your user name and password at the places mentioned in the 
 
-program. Special thanks to my friend Hilary for sitting with me during the final stages of the script.
+program. 
+
+Leave the script running in one window and start browsing in another firefox window.
+
+If you want this to work in chrome, download the chrome drivers for selenium and replace firefox with chrome in the script.
+
+Special thanks to my friend Hilary for sitting with me during the final stages of the script.
 
 
