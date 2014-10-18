@@ -25,9 +25,9 @@ for y in range(1,1000):
 	username.send_keys("")
 	username.send_keys(Keys.CONTROL + "a");
 	username.send_keys(Keys.DELETE);
-	username.send_keys("Md041324")
+	username.send_keys("Enter user name here")
 	
-	password.send_keys("sharika")
+	password.send_keys("Enter password here")
 
 	driver.find_element_by_name("submit").click()
 
