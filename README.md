@@ -11,14 +11,12 @@ allow me to do anything I want. The problem is that some of my friends know this
 
 same id, the last person who logged in will get internet access while the other one gets disconnected, i.e only one user
 
-can be logged on at one time.
+can be logged on at one time. So I decided to make a script, to keep refreshing that page, and if anyone decides to log in 
 
-So I decided to make a script, to keep refreshing that page, and if anyone decides to log in with that id, they'll
+with that id, they'll automatically disconnect within seconds due to my script. I'm obviously not going to give out my 
 
-automatically disconnect within seconds due to my script.
+username and password, but to run this script simply enter your user name and password at the places mentioned in the 
 
-I'm obviously not going to give out my username and password, but to run this script simply enter your user name and 
-
-password at the places mentioned in the program.
+program.
 
 
