@@ -1,0 +1,7 @@
+To install selenium it'll be easier if you install it through pip.
+
+Simply go to your pip folder and type
+
+pip install -U selenium
+
+and wait for it to download
